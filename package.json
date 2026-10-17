@@ -1,0 +1,7 @@
+{
+  "name": "contador",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "dev": "tauri dev", "build": "tauri build", "icon": "tauri icon app-icon.png" },
+  "devDependencies": { "@tauri-apps/cli": "^2" }
+}
